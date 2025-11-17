@@ -18,7 +18,7 @@ pip install -r requirements.txt
 
 ## Run the app
 ```bash
-streamlit run your_script.py
+streamlit run improved_iris_app.py
 ```
 ## Usage
 - Use sidebar sliders to input feature values
